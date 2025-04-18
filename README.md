@@ -13,10 +13,7 @@ An AI-powered, customizable, and privacy-focused workspace where you can plan, w
 <a href="#"><img src="https://img.shields.io/badge/license-AGPL-purple.svg" alt="License: AGPL"></a>
 </p>
 
-<p align="center">
-    <b>Website</b> •
-    <b>Documentation</b> •
-    <b>Community Forum</b>
+
 </p>
 
 <p align="center"><img src="assets/kanban_board.png" alt="Kanban Board for To-dos" /></p>
