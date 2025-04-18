@@ -143,14 +143,11 @@ doesn't lie in more functionality at the moment. Instead, we would like to culti
 knowledge and wheels of making complex workplace management tools while enabling people and businesses to create
 beautiful things on their own by equipping them with a versatile toolbox of building blocks.
 
-## License
 
-Distributed under the AGPLv3 License. See [`LICENSE.md`](https://github.com/AppFlowy-IO/AppFlowy/blob/main/LICENSE) for
-more information.
 
 ## Acknowledgments
 
-Special thanks to these amazing projects which help power AppFlowy:
+Special thanks to these amazing projects which:
 
 - [cargo-make](https://github.com/sagiegurari/cargo-make)
 - [contrib.rocks](https://contrib.rocks)
